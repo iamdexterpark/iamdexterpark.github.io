@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Dexter Park Blog</title>
-    <link>https://iamdexterpark.github.io/</link>
-    <description>Recent content on Dexter Park Blog</description>
+    <title>Pages on Dexter Park Blog</title>
+    <link>https://iamdexterpark.github.io/pages/</link>
+    <description>Recent content in Pages on Dexter Park Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Feb 2023 10:46:58 +0900</lastBuildDate><atom:link href="https://iamdexterpark.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Feb 2023 10:46:58 +0900</lastBuildDate><atom:link href="https://iamdexterpark.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://iamdexterpark.github.io/pages/about/</link>
@@ -15,15 +15,6 @@
       <guid>https://iamdexterpark.github.io/pages/about/</guid>
       <description>My name is Dexter Park. I am a network automation specialist.
 Follow me @iamdexterpark to get the latest updates!</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://iamdexterpark.github.io/posts/my-first-post/</link>
-      <pubDate>Sun, 19 Feb 2023 10:46:44 +0900</pubDate>
-      
-      <guid>https://iamdexterpark.github.io/posts/my-first-post/</guid>
-      <description>My first blog post</description>
     </item>
     
   </channel>
