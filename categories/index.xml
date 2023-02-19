@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Categories on Dexter Park Blog</title>
-    <link>https://iamdexterpark.github.io/categories/</link>
-    <description>Recent content in Categories on Dexter Park Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://iamdexterpark.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - Dexter Park</title>
+        <link>https://iamdexterpark.github.io/categories/</link>
+        <description>Categories - Category - Dexter Park</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>iamdexterpark@icloud.com (Dexter Park)</managingEditor>
+            <webMaster>iamdexterpark@icloud.com (Dexter Park)</webMaster><atom:link href="https://iamdexterpark.github.io/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>

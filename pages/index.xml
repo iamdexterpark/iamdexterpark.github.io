@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Dexter Park Blog</title>
+    <title>Pages on Dexter Park</title>
     <link>https://iamdexterpark.github.io/pages/</link>
-    <description>Recent content in Pages on Dexter Park Blog</description>
+    <description>Recent content in Pages on Dexter Park</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <managingEditor>iamdexterpark@icloud.com (Dexter Park)</managingEditor>
+    <webMaster>iamdexterpark@icloud.com (Dexter Park)</webMaster>
     <lastBuildDate>Sun, 19 Feb 2023 10:46:58 +0900</lastBuildDate><atom:link href="https://iamdexterpark.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://iamdexterpark.github.io/pages/about/</link>
       <pubDate>Sun, 19 Feb 2023 10:46:58 +0900</pubDate>
-      
+      <author>iamdexterpark@icloud.com (Dexter Park)</author>
       <guid>https://iamdexterpark.github.io/pages/about/</guid>
       <description>My name is Dexter Park. I am a network automation specialist.
 Follow me @iamdexterpark to get the latest updates!</description>

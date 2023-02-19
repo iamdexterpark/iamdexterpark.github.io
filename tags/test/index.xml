@@ -1,20 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>test on Dexter Park Blog</title>
-    <link>https://iamdexterpark.github.io/tags/test/</link>
-    <description>Recent content in test on Dexter Park Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 19 Feb 2023 10:46:44 +0900</lastBuildDate><atom:link href="https://iamdexterpark.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>https://iamdexterpark.github.io/posts/my-first-post/</link>
-      <pubDate>Sun, 19 Feb 2023 10:46:44 +0900</pubDate>
-      
-      <guid>https://iamdexterpark.github.io/posts/my-first-post/</guid>
-      <description>My first blog post</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>test - Tag - Dexter Park</title>
+        <link>https://iamdexterpark.github.io/tags/test/</link>
+        <description>test - Tag - Dexter Park</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>iamdexterpark@icloud.com (Dexter Park)</managingEditor>
+            <webMaster>iamdexterpark@icloud.com (Dexter Park)</webMaster><lastBuildDate>Sun, 19 Feb 2023 10:46:44 &#43;0900</lastBuildDate><atom:link href="https://iamdexterpark.github.io/tags/test/" rel="self" type="application/rss+xml" /><item>
+    <title>My First Post</title>
+    <link>https://iamdexterpark.github.io/posts/my-first-post/</link>
+    <pubDate>Sun, 19 Feb 2023 10:46:44 &#43;0900</pubDate>
+    <author>Dexter Park</author>
+    <guid>https://iamdexterpark.github.io/posts/my-first-post/</guid>
+    <description><![CDATA[Hello World]]></description>
+</item>
+</channel>
 </rss>
